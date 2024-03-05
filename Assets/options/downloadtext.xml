@@ -1,0 +1,45 @@
+<options>
+    <option value="asm">Assembly (.asm)</option>
+    <option value="bat">Batch (.bat)</option>
+    <option value="c">C (.c)</option>
+    <option value="coffee">CoffeeScript (.coffee)</option>
+    <option value="cpp">C++ (.cpp)</option>
+    <option value="cs">C# (.cs)</option>
+    <option value="css">CSS (.css)</option>
+    <option value="dart">Dart (.dart)</option>
+    <option value="ejs">EJS (.ejs)</option>
+    <option value="go">Go (.go)</option>
+    <option value="html">HTML (.html)</option>
+    <option value="java">Java (.java)</option>
+    <option value="js">JavaScript (.js)</option>
+    <option value="jsx">JSX (.jsx)</option>
+    <option value="json">JSON (.json)</option>
+    <option value="kt">Kotlin (.kt)</option>
+    <option value="less">Less (.less)</option>
+    <option value="lua">Lua (.lua)</option>
+    <option value="md">Markdown (.md)</option>
+    <option value="php">PHP (.php)</option>
+    <option value="pl">Perl (.pl)</option>
+    <option value="powershell">PowerShell (.ps1)</option>
+    <option value="pug">Pug (.pug)</option>
+    <option value="py">Python (.py)</option>
+    <option value="rb">Ruby (.rb)</option>
+    <option value="r">R (.r)</option>
+    <option value="rpy">Ren'Py (.rpy)</option>
+    <option value="rs">Rust (.rs)</option>
+    <option value="sass">Sass (.sass)</option>
+    <option value="scala">Scala (.scala)</option>
+    <option value="scss">SCSS (.scss)</option>
+    <option value="sh">Shell Script (.sh)</option>
+    <option value="sql">SQL (.sql)</option>
+    <option value="svg">SVG (.svg)</option>
+    <option value="swift">Swift (.swift)</option>
+    <option value="tex">LaTeX (.tex)</option>
+    <option value="toml">TOML (.toml)</option>
+    <option value="ts">TypeScript (.ts)</option>
+    <option value="tsx">TSX (.tsx)</option>
+    <option value="twig">Twig (.twig)</option>
+    <option value="txt" selected="true">Text (.txt)</option>
+    <option value="vue">Vue (.vue)</option>
+    <option value="yaml">YAML (.yaml)</option>
+</options>

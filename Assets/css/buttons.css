@@ -1,0 +1,23 @@
+#newNoteButton {
+    position: absolute;
+    top: 5%;
+    left: 10px;
+    width: 16.3%;
+    height: 5.5%;
+    color: #9c9c9c; /* Начальный цвет текста */
+    font-size: 16px; /* Начальный размер текста */
+    background-color: #181818; /* Начальный цвет кнопки */
+
+    border-radius: 5px;
+    padding: 5px 10px; /* Отступы кнопки */
+    cursor: pointer; /* Изменение курсора при наведении */
+}
+
+#newNoteButton:hover {
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    resize: vertical;
+    background-color: #181818;
+    color: #fff;
+}

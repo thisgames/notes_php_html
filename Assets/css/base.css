@@ -1,0 +1,60 @@
+/* base.css */
+
+body {
+    background-color: #302d2d;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    font-family: Consolas;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+input[type='text'],
+textarea,
+select,
+input[type='submit'],
+button {
+    width: calc(100% - 15px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+    background-color: #181818;
+    color: #fff;
+}
+
+textarea {
+    height: 560px;
+    overflow: auto; /* или overflow: scroll */
+}
+
+button,
+input[type="submit"] {
+    padding: 10px;
+    background-color: #181818;
+    color: #fff;
+    border: none;
+    border-radius: none;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+    font-family: Consolas;
+}
+
+button:hover,
+input[type="submit"]:hover {
+    background-color: #181818; /* Начальный цвет кнопки */
+    border: 1px solid #fff;
+    border-radius: 5px;
+
+}
+
+input {
+    font-family: Consolas;
+}
+ 

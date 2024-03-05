@@ -1,0 +1,32 @@
+/* notes.css */
+#notes-container {
+    max-height: 660px;
+    
+    overflow-y: auto;
+}
+
+#noteList {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.note {
+    width: 90%;
+    height: 15px;
+    background-color: #0d0d0d;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.note:hover {
+    background-color: #181818;
+}
+ 
